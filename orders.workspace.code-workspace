@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "Orders.Web"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"\"**/*.js\": {\"when\": \"$(basename).ts\"}": true
+		}
+	}
+}
